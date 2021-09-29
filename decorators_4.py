@@ -15,4 +15,4 @@ class cal():
         c=self.a
         d=self.b
         return (c**d)
-obj=cal(5,8)
+obj=cal(5,8)  
